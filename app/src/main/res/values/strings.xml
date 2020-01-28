@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">10 manusia terkaya</string>
+    <string name="grid">Grid</string>
+    <string name="about">about</string>
+    <string name="heroes_name">Nama</string>
+    <string name="from">penjelasan</string>
+
+</resources>
